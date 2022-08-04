@@ -77,7 +77,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone do Feed do 
 <br><br>
 <br>
 
-## :mega: Segue abaixo as principais estruturas e interface principal:
+## :mega: ⬇ Abaixo, as principais estruturas e interface principal:
 
 <br><br><br>
 
