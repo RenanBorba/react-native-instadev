@@ -12,7 +12,7 @@
 
 <br>
 
-![insta](https://user-images.githubusercontent.com/48495838/85884098-71d6f600-b7b8-11ea-8fe8-4928f9059f23.png)
+![instagram-logo](https://github.com/RenanBorba/react-native-realm/assets/48495838/557f8a05-536a-4045-a4ff-0a8d40024944)
 
 </div>
 
